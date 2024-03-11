@@ -13,3 +13,5 @@ This repository contains a Power BI project with interactive dashboards and surv
     - This page showcases key factors influencing attrition (where attrition is marked as “yes”).
     - It provides insights into why employees leave the organization.
 Feel free to explore the dashboards and gain valuable insights from the data!
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=https://raw.githubusercontent.com/idamariejohansen/idamariejohansen.github.io/master/PowerBI%20People%20Data%20-%20HR-Employee-Attrition%20Data%20Sample.pbix"></iframe>

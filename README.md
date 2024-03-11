@@ -8,6 +8,7 @@ This repository contains a Power BI project with interactive dashboards and surv
     - Presents survey results related to environment satisfaction, job satisfaction, work-life balance, job environment, and relationships.
     - Ratings are on a scale of 1 to 4.
     - Users can further filter survey data based on generations, attrition status, gender, position, and department.
+     
      3. **Attrition Influencers**:
     - This page showcases key factors influencing attrition (where attrition is marked as “yes”).
     - It provides insights into why employees leave the organization.

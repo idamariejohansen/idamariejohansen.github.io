@@ -9,7 +9,7 @@ This repository contains a Power BI project with interactive dashboards and surv
     - Ratings are on a scale of 1 to 4.
     - Users can further filter survey data based on generations, attrition status, gender, position, and department.
      
-     3. **Attrition Influencers**:
+3. **Attrition Influencers**:
     - This page showcases key factors influencing attrition (where attrition is marked as “yes”).
     - It provides insights into why employees leave the organization.
 Feel free to explore the dashboards and gain valuable insights from the data!
